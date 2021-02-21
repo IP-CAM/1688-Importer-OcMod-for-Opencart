@@ -1,1 +1,1 @@
-# 1688-importer-opencart
+# 1688 Importer OcMod for Opencart
